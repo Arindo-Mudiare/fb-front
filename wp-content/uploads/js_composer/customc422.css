@@ -1,0 +1,39 @@
+#menu-item16616 a {
+    target="_blank";
+    }
+.no_bullet {
+list-style-type: none;
+padding: 0;
+margin: 0;
+}
+.no_bullet li{ margin-bottom: 10px; }
+#agent1{
+    background: url("../2017/11/download-1-e1511942364351.png") no-repeat left top;
+    padding-top: -50px;
+    padding-left: 60px;
+}
+#agent2{
+    background: url("../2017/11/firstmonieagent-network.png") no-repeat left top;
+    padding-top: -50px;
+    padding-left: 60px;
+}
+#agent3{
+    background: url("../2017/11/financial-services-e1511945715382.jpg") no-repeat left top;
+    padding-top: -50px;
+    padding-left: 60px;
+}
+#agent4{
+    background: url("../2017/11/human-atm-e1511945767247.png") no-repeat left top;
+    padding-top: -50px;
+    padding-left: 60px;
+}
+#agent5{
+    background: url("../2017/11/Youth-Empowerment-e1511945806373.png") no-repeat left top;
+    padding-top: -50px;
+    padding-left: 60px;
+}
+#agent6{
+    background: url("../2017/11/icon-feed-the-future-e1511945855852.png") no-repeat left top;
+    padding-top: -50px;
+    padding-left: 60px;
+}
